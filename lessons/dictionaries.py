@@ -42,4 +42,6 @@ for school in schools:
 
 print(type(school))
 
-
+for key in schools:
+    print(key)
+    print(schools[key])
